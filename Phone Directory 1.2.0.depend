@@ -1,0 +1,207 @@
+# depslib dependency file v1.0
+1682890906 source:f:\codeblocks projects\phone directory 1.2.0\main.cpp
+	"class.hpp"
+	"tabulate-master\single_include\tabulate\tabulate.hpp"
+
+1682878159 source:f:\codeblocks projects\phone directory 1.2.0\mainnn.c
+
+1682891123 source:f:\codeblocks projects\phone directory 1.2.0\functions.cpp
+	"class.hpp"
+	"tabulate-master\single_include\tabulate\tabulate.hpp"
+
+1682888395 f:\codeblocks projects\phone directory 1.2.0\class.hpp
+	<iostream>
+	<string>
+	<iomanip>
+
+1676904003 f:\codeblocks projects\phone directory 1.2.0\tabulate-master\single_include\tabulate\tabulate.hpp
+	<utility>
+	<cstddef>
+	<functional>
+	<variant>
+	<cstddef>
+	<limits>
+	<new>
+	<utility>
+	<cassert>
+	<stdexcept>
+	<functional>
+	<initializer_list>
+	<type_traits>
+	<tr1/type_traits>
+	<utility>
+	<cstddef>
+	<optional>
+	<cassert>
+	<utility>
+	<stdexcept>
+	<functional>
+	<initializer_list>
+	<type_traits>
+	<tr1/type_traits>
+	<nonstd/string_view.tweak.hpp>
+	<cstddef>
+	<string_view>
+	<algorithm>
+	<cassert>
+	<iterator>
+	<limits>
+	<string>
+	<ostream>
+	<stdexcept>
+	<type_traits>
+	<functional>
+	<unistd.h>
+	<io.h>
+	<windows.h>
+	<cstdio>
+	<iostream>
+	<algorithm>
+	<cstdint>
+	<string>
+	<clocale>
+	<locale>
+	<cstdlib>
+	<wchar.h>
+	<iostream>
+	<memory>
+	<string>
+	<algorithm>
+	<cctype>
+	<cstddef>
+	<sstream>
+	<string>
+	<optional>
+	<vector>
+	<optional>
+	<vector>
+	<iostream>
+	<memory>
+	<string>
+	<optional>
+	<vector>
+	<algorithm>
+	<functional>
+	<iostream>
+	<memory>
+	<optional>
+	<string>
+	<vector>
+	<utility>
+	<vector>
+	<algorithm>
+	<iostream>
+	<string>
+	<vector>
+	<string_view>
+	<variant>
+	<utility>
+	<string>
+	<optional>
+	<algorithm>
+	<optional>
+	<sstream>
+	<string>
+
+1683230475 source:g:\phone directory 1.2.0\functions.cpp
+	"class.hpp"
+	"tabulate-master\single_include\tabulate\tabulate.hpp"
+
+1683230263 g:\phone directory 1.2.0\class.hpp
+	<iostream>
+	<string>
+	<iomanip>
+
+1676904003 g:\phone directory 1.2.0\tabulate-master\single_include\tabulate\tabulate.hpp
+	<utility>
+	<cstddef>
+	<functional>
+	<variant>
+	<cstddef>
+	<limits>
+	<new>
+	<utility>
+	<cassert>
+	<stdexcept>
+	<functional>
+	<initializer_list>
+	<type_traits>
+	<tr1/type_traits>
+	<utility>
+	<cstddef>
+	<optional>
+	<cassert>
+	<utility>
+	<stdexcept>
+	<functional>
+	<initializer_list>
+	<type_traits>
+	<tr1/type_traits>
+	<nonstd/string_view.tweak.hpp>
+	<cstddef>
+	<string_view>
+	<algorithm>
+	<cassert>
+	<iterator>
+	<limits>
+	<string>
+	<ostream>
+	<stdexcept>
+	<type_traits>
+	<functional>
+	<unistd.h>
+	<io.h>
+	<windows.h>
+	<cstdio>
+	<iostream>
+	<algorithm>
+	<cstdint>
+	<string>
+	<clocale>
+	<locale>
+	<cstdlib>
+	<wchar.h>
+	<iostream>
+	<memory>
+	<string>
+	<algorithm>
+	<cctype>
+	<cstddef>
+	<sstream>
+	<string>
+	<optional>
+	<vector>
+	<optional>
+	<vector>
+	<iostream>
+	<memory>
+	<string>
+	<optional>
+	<vector>
+	<algorithm>
+	<functional>
+	<iostream>
+	<memory>
+	<optional>
+	<string>
+	<vector>
+	<utility>
+	<vector>
+	<algorithm>
+	<iostream>
+	<string>
+	<vector>
+	<string_view>
+	<variant>
+	<utility>
+	<string>
+	<optional>
+	<algorithm>
+	<optional>
+	<sstream>
+	<string>
+
+1682891485 source:g:\phone directory 1.2.0\main.cpp
+	"class.hpp"
+	"tabulate-master\single_include\tabulate\tabulate.hpp"
+
